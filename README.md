@@ -8,3 +8,4 @@ Solved laboratories for the Machine Learning Fundamentals course in the  Compute
 - `lab-2/` - neighborhood-based methods, kNN classification, and search/retrieval exercises.
 - `lab-3/` - kernel methods and related classification exercises.
 - `lab-4/` - probabilistic methods.
+- `lab-5/` - unbalanced classification and anomaly detection.
