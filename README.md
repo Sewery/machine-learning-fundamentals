@@ -10,3 +10,4 @@ Solved laboratories for the Machine Learning Fundamentals course in the  Compute
 - `lab-4/` - probabilistic methods.
 - `lab-5/` - unbalanced classification and anomaly detection.
 - `lab-6/` - feature selection and dimensionality reduction.
+- `lab-7/` - clustering
